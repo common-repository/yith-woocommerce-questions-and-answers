@@ -1,0 +1,1281 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YIT WooCommerce Advanced Reviews\n"
+"Report-Msgid-Bugs-To: YITH <plugins@yithemes.com>\n"
+"POT-Creation-Date: 2021-10-07 13:52:55+00:00\n"
+"PO-Revision-Date: 2017-08-11 17:21+0200\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: class.yith-woocommerce-question-answer.php:145
+#: class.yith-woocommerce-question-answer.php:146
+msgid "Content updated."
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:147
+msgid "Content published."
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:148
+msgid "Content saved."
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:149
+msgid "Content submitted."
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:293
+#: class.yith-woocommerce-question-answer.php:311
+msgid "Product: "
+msgstr "Prodotto:"
+
+#: class.yith-woocommerce-question-answer.php:316
+msgid "Question: "
+msgstr "Domanda:"
+
+#: class.yith-woocommerce-question-answer.php:340
+msgid "Select product"
+msgstr "Seleziona prodotto"
+
+#: class.yith-woocommerce-question-answer.php:488
+#: class.yith-woocommerce-question-answer.php:504
+#: class.yith-woocommerce-question-answer.php:732
+msgid "Questions & Answers"
+msgstr "Domande e risposte"
+
+#: class.yith-woocommerce-question-answer.php:489
+msgid "Parent discussion"
+msgstr "Discussione principale"
+
+#: class.yith-woocommerce-question-answer.php:490
+msgid "All discussion"
+msgstr "Tutta la discussione"
+
+#: class.yith-woocommerce-question-answer.php:491
+msgid "View discussions"
+msgstr "Visualizza discussioni"
+
+#: class.yith-woocommerce-question-answer.php:492
+msgid "Add new question"
+msgstr "Fai una domanda"
+
+#: class.yith-woocommerce-question-answer.php:493
+msgid "Add new"
+msgstr "Aggiungi nuovo"
+
+#: class.yith-woocommerce-question-answer.php:494
+msgid "Edit discussion"
+msgstr "Modifica discussione"
+
+#: class.yith-woocommerce-question-answer.php:495
+msgid "Update discussion"
+msgstr "Aggiorna discussione"
+
+#: class.yith-woocommerce-question-answer.php:496
+msgid "Search discussion"
+msgstr "Cerca discussione"
+
+#: class.yith-woocommerce-question-answer.php:497
+msgid "Not found"
+msgstr "Non trovato"
+
+#: class.yith-woocommerce-question-answer.php:498
+msgid "Not found in the bin"
+msgstr "Non trovato nel cestino"
+
+#: class.yith-woocommerce-question-answer.php:505
+msgid "YITH Questions and Answers"
+msgstr "YITH Questions and Answers"
+
+#: class.yith-woocommerce-question-answer.php:555
+#: class.yith-woocommerce-question-answer.php:621
+msgid "Please retry submitting your question or answer."
+msgstr "Per favore, riprova ad inviare la tua domanda o risposta."
+
+#: class.yith-woocommerce-question-answer.php:561
+msgid "No product ID selected, the question will not be created."
+msgstr "Nessun ID prodotto selezionato, la domanda non sarà creata."
+
+#: class.yith-woocommerce-question-answer.php:711
+msgid "You need to write something!"
+msgstr "Non dimenticare di scrivere qualcosa!"
+
+#: class.yith-woocommerce-question-answer.php:712
+msgid "Answer correctly sent."
+msgstr "Risposta inviata correttamente."
+
+#: class.yith-woocommerce-question-answer.php:713
+msgid "An error occurred, your answer has not been added."
+msgstr "Si è verificato un errore, la tua risposta non è stata aggiunta."
+
+#: init.php:32
+msgid ""
+"YITH WooCommerce Questions & Answers is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Questions and Answers è abilitato ma non in funzione. Devi "
+"aver installato WooCommerce perché possa funzionare."
+
+#: init.php:45
+msgid ""
+"You can't activate the free version of YITH WooCommerce Questions & Answers "
+"while you are using the premium one."
+msgstr ""
+"Non è possibile attivare la versione free di YITH WooCommerce Questions & "
+"Answers se stai già utilizzando la premium."
+
+#. translators: %d: Comment ID
+#: lib/class.yith-woocommerce-question-answer-privacy.php:253
+msgid "Review %d contains personal data but could not be anonymized."
+msgstr ""
+
+#: lib/class.ywqa-discussion.php:119
+msgid "Anonymous"
+msgstr "Anonimo"
+
+#: lib/class.ywqa-plugin-fw-loader.php:145
+msgid "General"
+msgstr "Generali"
+
+#: lib/class.ywqa-plugin-fw-loader.php:148
+msgid "Premium Version"
+msgstr "Versione premium"
+
+#: lib/class.ywqa-plugin-fw-loader.php:203
+msgid ""
+"YITH WooCommerce Questions and Answers is available in an outstanding "
+"PREMIUM version with many new options, discover it now."
+msgstr ""
+"È disponibile un'eccezionale versione PREMIUM di YITH WooCommerce Questions "
+"and Answers con molte nuove opzioni, scoprila subito."
+
+#: lib/class.ywqa-plugin-fw-loader.php:204
+msgid "Premium version"
+msgstr "Versione premium"
+
+#: lib/class.ywqa-plugin-fw-loader.php:213
+msgid ""
+"In YIT Plugins tab you can find YITH WooCommerce Questions & Answers options."
+"<br> From this menu you can access all settings of YITH plugins activated."
+msgstr ""
+"Nella scheda YIT Plugins puoi trovare tutte le opzioni di YITH WooCommerce "
+"Questions & Answers. <br> Da questo menu potrai accedere a tutte le "
+"impostazioni dei plugin YITH installati."
+
+#: plugin-options/general-options.php:22
+msgid "General settings"
+msgstr "Impostazioni generali"
+
+#: plugin-options/general-options.php:27
+msgid "Questions to show"
+msgstr "Domande da mostrare"
+
+#: plugin-options/general-options.php:29
+msgid ""
+"Set how many questions you want to show for each product (set 0 to display "
+"all)."
+msgstr ""
+"Imposta il numero di domande da mostrare per ogni prodotto (seleziona 0 per "
+"mostrarle tutte)."
+
+#: plugin-options/general-options.php:39 templates/admin/premium.php:474
+msgid "FAQ mode"
+msgstr "Modalità FAQ"
+
+#: plugin-options/general-options.php:41
+msgid ""
+"Don't allow users to add questions and answers, but let them read in FAQ "
+"mode."
+msgstr ""
+"Non permettere agli utenti di aggiungere domande o risposte, ma fa\\' in "
+"modo che vengano mostrate nella modalità FAQ."
+
+#. translators: %1: html %2: html
+#: templates/admin/premium.php:220 templates/admin/premium.php:497
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Questions and "
+"Answers%2$s to benefit from all features!"
+msgstr ""
+"Aggiorna alla %1$sversione premium%2$s di %1$sYITH WooCommerce Questions and "
+"Answers%2$s per usufruire di tutte le sue funzionalità!"
+
+#: templates/admin/premium.php:227 templates/admin/premium.php:504
+msgid "UPGRADE"
+msgstr "AGGIORNA"
+
+#: templates/admin/premium.php:228 templates/admin/premium.php:505
+msgid "to the premium version"
+msgstr "alla versione premium"
+
+#: templates/admin/premium.php:234
+msgid "Premium Features"
+msgstr "Funzionalità premium"
+
+#: templates/admin/premium.php:242
+msgid "Number of answers "
+msgstr "Numero di risposte"
+
+#. translators: %1: html %2: html
+#: templates/admin/premium.php:248
+msgid ""
+"The more followers has a question, the more answers are likely to be left "
+"for it. If you do not want your product page to get extremely long, enable "
+"%1$sanswer pagination%2$s by specifying the number of elements you want to "
+"show at a time."
+msgstr ""
+"Più una domanda ha seguito, maggiori sono le risposte che può ottenere. Se "
+"non vuoi che in casi simili la pagina del prodotto si allunghi oltremodo, "
+"attiva la %1$spaginazione delle risposte%2$s indicando il numero di elementi "
+"che vuoi mostrare per volta."
+
+#: templates/admin/premium.php:262
+msgid "Voting system"
+msgstr "Sistema di valutazione"
+
+#. translators: %1: html %2: html
+#: templates/admin/premium.php:268
+msgid ""
+"Increase and improve interaction between users and your shop. With the "
+"premium version of the plugin, you will be able to allow all registered "
+"users to leave a %1$spositive or negative vote%2$s to questions and answers "
+"of each product. A very good strategy to highlight questions and answers "
+"that can be useful to other customers."
+msgstr ""
+"Aumenta e migliora l’interazione tra gli utenti e il tuo shop. Con la "
+"versione premium del plugin potrai dare a tutti gli utenti registrati la "
+"possibilità di %1$svotare%2$s positivamente o negativamente domande e "
+"risposte associate ai prodotti.\n"
+"Un'ottima strategia per mettere in evidenza le domande e le risposte più "
+"utili."
+
+#: templates/admin/premium.php:288
+msgid "Email notification"
+msgstr "Notifiche email"
+
+#. translators: %1: html %2: html
+#: templates/admin/premium.php:294
+msgid ""
+"Keep always up-to-date about what users write in your shop. Enable %1$semail "
+"notification%2$s to be informed any time a new question is added to one of "
+"your products and read the content of it in the email message you get. With "
+"the option %1$s\"User notification\"%2$s, you can notify users as soon as an "
+"answer is given to the question they have previously posed."
+msgstr ""
+"Resta sempre aggiornato su quello che avviene all’interno del tuo shop. "
+"Attiva le %1$snotifiche email%2$s per essere avvisato quando una domanda "
+"viene aggiunta ad uno dei tuoi prodotti, ricevendone per email il contenuto. "
+"Ma non solo. Con l’opzione %1$s\"Notifica l’utente\"%2$s, puoi notificare "
+"l’utente quando viene inserita una risposta alla domanda che in precedenza "
+"aveva inserito."
+
+#: templates/admin/premium.php:309
+msgid "Inappropriate content"
+msgstr "Contenuto inappropriato"
+
+#. translators: %1: html %2: html
+#: templates/admin/premium.php:315
+msgid ""
+"There might always be someone in the web, who wants to disturb or leave "
+"offensive, inappropriate or simply unsuitable answers. With the premium "
+"version of the plugin, your users will be able to \"monitor\" this kind of "
+"answers on their own and report questions and/or answers that are "
+"inappropriate. %1$sThese answers will be automatically removed%2$s if a "
+"specific number of users that you can set in your plugin reports them as an "
+"abuse."
+msgstr ""
+"In giro per il web c’è sempre qualcuno che può dar fastidio o rispondere con "
+"toni inadeguati al contesto in cui si trova.\n"
+"Con la versione premium del plugin i tuoi stessi utenti potranno \"vigilare"
+"\" su questo tipo di situazioni, segnalando domande o risposte che reputano "
+"inappropriate. Esse saranno rimosse %1$sautomaticamente%2$s dopo uno "
+"specifico numero di segnalazioni (da te impostato)."
+
+#: templates/admin/premium.php:335
+msgid "Incognito mode"
+msgstr "Modalità anonima"
+
+#. translators: %1: html %2: html
+#: templates/admin/premium.php:341
+msgid ""
+"Working principles are always the same. Each question will get its own "
+"answers. The only difference is that the name of users who have posed a "
+"question or given an answer will not be shown and they will be %1$sanonymous"
+"%2$s to users of the shop, either they are registered or not."
+msgstr ""
+"Il meccanismo non cambia. Ad ogni domanda le sue risposte. L’unica "
+"differenza sta nel fatto che i nomi di coloro che hanno inserito domande e "
+"risposte non saranno mostrati, così da restare %1$sanonimi%2$s agli occhi di "
+"tutti gli utenti dello shop, registrati e non."
+
+#: templates/admin/premium.php:355
+msgid "Invite to answer"
+msgstr "Invito a rispondere"
+
+#. translators: %1: html %2: html
+#: templates/admin/premium.php:361
+msgid ""
+"Who may better answer to a new question than those who have purchased a "
+"product?  With this innovative feature, you will be able to automatically "
+"%1$ssend an email to customers that have purchased a product%2$s on which a "
+"question has been added and invite them to answer. You can choose to send an "
+"email to all customers or let the plugin select only some of them randomly. "
+msgstr ""
+"Chi meglio di chi acquista il prodotto può essere in grado di rispondere ad "
+"una nuova domanda? Con questa funzionalità innovativa, potrai inviare in "
+"automatico, ad ogni nuova domanda, un’%1$semail agli acquirenti%2$s del "
+"prodotto invitandoli a lasciare una risposta. Scegli tu se inviare l’email a "
+"tutti gli acquirenti o lasciare che il plugin ne selezioni solo alcuni in "
+"maniera casuale."
+
+#: templates/admin/premium.php:381
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#. translators: %1: html %2: html
+#: templates/admin/premium.php:387
+msgid ""
+"Make your questions and answers system safer: activate the recaptcha and "
+"avoid all the spam contents you can get.The premium version of the plugin "
+"offers the new version of Google's captcha, the %1$sNo CAPTCHA reCAPTCHA"
+"%2$s, to give you the freedom to use an up-to-date and simple system for "
+"your users."
+msgstr ""
+"Rendi più sicuro il tuo sistema di domande e risposte: attiva il sistema di "
+"controllo anti-bot così da evitare tutto lo spam che, in alternativa, "
+"potresti ricevere. \n"
+"La versione premium del plugin integra la nuova versione del captcha di "
+"Google, %1$sNo CAPTCHA reCAPTCHA%2$s, per darti la possibilità di utilizzare "
+"un sistema aggiornato e facile da usare per i tuoi utenti."
+
+#: templates/admin/premium.php:401
+msgid "Insertion mode."
+msgstr ""
+
+#. translators: %1: html %2: html
+#: templates/admin/premium.php:407
+msgid ""
+"By default, the complete list of questions and answers is shown right inside "
+"a %1$stab of product detail page%2$s.%3$s However, you can change this "
+"behavior by inserting, through the specific %1$sshortcode%2$s, questions and "
+"answers in any spot of the page."
+msgstr ""
+
+#: templates/admin/premium.php:428
+msgid "Content moderation"
+msgstr ""
+
+#. translators: %1: html %2: html
+#: templates/admin/premium.php:434
+msgid ""
+"That be a question or an answer, the content could be %1$spublished only "
+"after your approval%2$s. In this way you could avoid spam on your product "
+"pages and be sure to have only efficient contents for your customers."
+msgstr ""
+
+#: templates/admin/premium.php:448
+msgid "Unlogged users"
+msgstr ""
+
+#. translators: %1: html %2: html
+#: templates/admin/premium.php:454
+msgid ""
+"Give the possibility to unlogged users to insert a question or an answer. "
+"The insertion form allows user to insert %1$sname%2$s and %1$semail address"
+"%2$s which can be used later by administrator to stretch back to the owner "
+"of the question and/or answer."
+msgstr ""
+
+#. translators: %1: html %2: html
+#: templates/admin/premium.php:480
+msgid ""
+"A complete list of questions and answers is made available to users, without "
+"any possibility of insertion for them. %1$sOnly the administrator of the shop"
+"%2$s will be enabled to insert and /or change the contents."
+msgstr ""
+
+#. translators: %1: Author name %2: date
+#: templates/ywqa-answer-template.php:30
+#, fuzzy
+msgid "%1$s answered on %2$s"
+msgstr "%s risposte su %s"
+
+#: templates/ywqa-answers-template.php:36
+msgid "Back to product"
+msgstr "Torna al prodotto"
+
+#. translators: %1: Author name %2:date
+#: templates/ywqa-answers-template.php:44
+#, fuzzy
+msgid "asked by %1$s on %2$s"
+msgstr "chiesto da %s il %s"
+
+#: templates/ywqa-answers-template.php:64
+msgid "Type your answer here"
+msgstr ""
+
+#: templates/ywqa-answers-template.php:68
+msgid "Answer"
+msgstr "Rispondi"
+
+#: templates/ywqa-answers-template.php:69
+msgid "Answer now to the question"
+msgstr "Rispondi adesso alla domanda"
+
+#. translators: %s: Question count
+#: templates/ywqa-answers-template.php:83
+msgid "%s answers shown"
+msgstr "%s risposte visualizzate"
+
+#: templates/ywqa-answers-template.php:93
+msgid "There are no answers to this question, be the first to respond."
+msgstr "Non ci sono ancora risposte a questa domanda, rispondi per primo."
+
+#: templates/ywqa-question-template.php:24
+msgid "Q"
+msgstr "D"
+
+#: templates/ywqa-question-template.php:34
+msgid "Answered by the admin"
+msgstr "Con risposta dell'amministratore"
+
+#: templates/ywqa-question-template.php:36
+msgid "A"
+msgstr "R"
+
+#: templates/ywqa-question-template.php:44
+msgid "There are no answers for this question yet."
+msgstr "Ancora non ci sono risposte a questa domanda."
+
+#. translators: %s: count
+#: templates/ywqa-question-template.php:54
+msgid "Show all %s answers"
+msgstr "Mostra tutte le %s risposte"
+
+#: templates/ywqa-questions-template.php:24
+msgid "Questions and answers of the customers"
+msgstr "Domande e risposte degli utenti"
+
+#. translators: %d: Count
+#. translators: %s: Name of a city
+#: templates/ywqa-questions-template.php:44
+#: templates/ywqa-questions-template.php:52
+msgid "Show all %d questions with answers"
+msgstr "Mostra tutte le %d domande con risposta"
+
+#: templates/ywqa-questions-template.php:62
+msgid ""
+"There are no questions yet, be the first to ask something for this product."
+msgstr ""
+"Non ci sono ancora domande, poni per primo una domanda per questo prodotto."
+
+#: templates/ywqa-questions-template.php:79
+msgid "Do you have any question? Ask now!"
+msgstr "Hai una domanda? Chiedi pure!"
+
+#: templates/ywqa-questions-template.php:82
+msgid "Ask"
+msgstr "Chiedi"
+
+#: templates/ywqa-questions-template.php:83
+msgid "Ask your question"
+msgstr "Fai una domanda"
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH WooCommerce Questions And Answers</strong></code> offers "
+"a rapid way to manage dynamic discussions about the products of your shop. "
+"<a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for "
+"your e-commerce shop on <strong>YITH</strong></a>."
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:486
+msgctxt "Post Type General Name"
+msgid "Questions & Answers"
+msgstr "Domande e risposte"
+
+#: class.yith-woocommerce-question-answer.php:487
+msgctxt "Post Type Singular Name"
+msgid "Question"
+msgstr "Domanda"
+
+#: lib/class.yith-woocommerce-question-answer-privacy.php:35
+#, fuzzy
+msgctxt "Privacy Policy Content"
+msgid "YITH Question and Answers for WooCommerce"
+msgstr "YITH Questions and Answers"
+
+#: views/privacy/html-policy-content-collect_and_store.php:9
+msgctxt "Privacy Policy Content"
+msgid ""
+"While you visit our site, we collect information about you during the "
+"process of creating question and answers of products. We’ll track:"
+msgstr ""
+
+#: views/privacy/html-policy-content-collect_and_store.php:12
+msgctxt "Privacy Policy Content"
+msgid ""
+"Author name, date, title , content and questions and answer url:  we’ll use "
+"this to create questions and answers of products"
+msgstr ""
+
+#: views/privacy/html-policy-content-has_access.php:10
+msgctxt "Privacy Policy Content"
+msgid ""
+"Members of our team have access to the information you provide us. For "
+"example, both Administrators and Shop Managers can access:"
+msgstr ""
+
+#: views/privacy/html-policy-content-has_access.php:13
+msgctxt "Privacy Policy Content"
+msgid ""
+"Author name, date, title and content of the questions and answers you have "
+"made"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-privacy.php:84
+#, fuzzy
+msgctxt "GDPR privacy"
+msgid "Yith Question and Answer"
+msgstr "YITH Questions and Answers"
+
+#: lib/class.yith-woocommerce-question-answer-privacy.php:165
+#, fuzzy
+msgctxt "GDPR privacy"
+msgid "Question and answer"
+msgstr "YITH Questions and Answers"
+
+#: lib/class.yith-woocommerce-question-answer-privacy.php:191
+#, fuzzy
+msgctxt "GDPR privacy"
+msgid "Yith Advanced Reviews"
+msgstr "Impostazioni avanzate"
+
+#: lib/class.yith-woocommerce-question-answer-privacy.php:230
+#, fuzzy
+msgctxt "GDPR privacy"
+msgid "Anonymous"
+msgstr "Anonimo"
+
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
+
+#~ msgid "Plugin Documentation"
+#~ msgstr "Documentazione plugin"
+
+#~ msgid "YITH WooCommerce Questions and Answers"
+#~ msgstr "YITH WooCommerce Questions and Answers"
+
+#~ msgid ""
+#~ "The more followers has a question, the more answers are likely to be left "
+#~ "for it. If you do not want your product page\n"
+#~ "                     to get extremely long, enable %1$sanswer pagination"
+#~ "%2$s by specifying the number of elements you want to show at a time."
+#~ msgstr ""
+#~ "Più una domanda ha seguito, maggiori sono le risposte che può ricevere. "
+#~ "Se non vuoi che in casi simili la pagina del prodotto si allunghi "
+#~ "oltremodo,\n"
+#~ "attiva la %1$spaginazione delle risposte%2$s indicando il numero di "
+#~ "elementi che vuoi mostrare per ogni pagina."
+
+#~ msgid ""
+#~ "Increase and improve interaction between users and your shop. With the "
+#~ "premium version of the plugin, you will be able to allow all registered "
+#~ "users to leave a %1$spositive or negative vote%2$s to questions and "
+#~ "answers of each product.\n"
+#~ "                    A very good strategy to highlight questions and "
+#~ "answers that can be useful to other customers."
+#~ msgstr ""
+#~ "Aumenta e migliora l’interazione tra gli utenti e il tuo shop. Con la "
+#~ "versione premium del plugin potrai dare a tutti gli utenti registrati la "
+#~ "possibilità di %1$svotare positivamente o negativamente%2$s domande e "
+#~ "risposte associate ai prodotti.\n"
+#~ "Un'ottima strategia per mettere in evidenza le domande e le risposte più "
+#~ "utili."
+
+#~ msgid ""
+#~ "Keep always up-to-date about what users write in your shop. Enable "
+#~ "%1$semail notification%2$s to be informed any time a new question is "
+#~ "added\n"
+#~ "                    to one of your products and read the content of it in "
+#~ "the email message you get. With the option %1$s\"User notification"
+#~ "\"%2$s,\n"
+#~ "                    you can notify users as soon as an answer is given to "
+#~ "the question they have previously posed."
+#~ msgstr ""
+#~ "Resta sempre aggiornato su quello che avviene all’interno del tuo shop. "
+#~ "Attiva le %1$snotifiche email%2$s per essere avvisato quando una domanda\n"
+#~ "viene aggiunta ad uno dei tuoi prodotti, ricevendone per email il "
+#~ "contenuto. Ma non solo. Con l’opzione %1$s\"Notifica l’utente\"%2$s,\n"
+#~ "puoi notificare l’utente quando viene inserita una risposta alla domanda "
+#~ "che in precedenza aveva inserito."
+
+#~ msgid ""
+#~ "There might always be someone in the web, who wants to disturb or leave "
+#~ "offensive, inappropriate or simply unsuitable answers.\n"
+#~ "                    With the premium version of the plugin, your users "
+#~ "will be able to \"monitor\" this kind of answers on\n"
+#~ "                    their own and report questions and/or answers that "
+#~ "are inappropriate. %1$sThese answers will be automatically removed%2$s "
+#~ "if\n"
+#~ "                     a specific number of users that you can set in your "
+#~ "plugin reports them as an abuse."
+#~ msgstr ""
+#~ "In giro per il web c’è sempre qualcuno che può dar fastidio o rispondere "
+#~ "con toni inadeguati al contesto in cui si trova.\n"
+#~ "Con la versione premium del plugin i tuoi stessi utenti potranno "
+#~ "\"vigilare\" su questo tipo di situazioni, segnalando domande o risposte\n"
+#~ "che reputano inappropriate. Esse saranno %1$srimosse automaticamente%2$s\n"
+#~ "dopo uno specifico numero di segnalazioni (da te impostato)."
+
+#~ msgid ""
+#~ "Working principles are always the same. Each question will get its own "
+#~ "answers. The only difference is that the name\n"
+#~ "                    of users who have posed a question or given an answer "
+#~ "will not be shown and they will be %1$sanonymous%2$s to users of the "
+#~ "shop, either they are registered or not."
+#~ msgstr ""
+#~ "Il meccanismo non cambia. Ad ogni domanda le sue risposte. \n"
+#~ "L’unica differenza sta nel fatto che i nomi di coloro che hanno inserito "
+#~ "domande e risposte non saranno mostrati, così da restare %1$sanonimi%2$s "
+#~ "agli occhi di tutti gli utenti dello shop, registrati e non."
+
+#~ msgid ""
+#~ "Who may better answer to a new question than those who have purchased a "
+#~ "product? \n"
+#~ "                    With this innovative feature, you will be able to "
+#~ "automatically %1$ssend an email to customers that have purchased a product"
+#~ "%2$s on \n"
+#~ "                    which a question has been added and invite them to "
+#~ "answer. You can choose to send an email to all customers or let the "
+#~ "plugin select only some of them randomly. "
+#~ msgstr ""
+#~ "Chi meglio di chi acquista il prodotto può essere in grado di rispondere "
+#~ "ad una nuova domanda?\n"
+#~ "Con questa funzionalità innovativa, potrai inviare in automatico, ad ogni "
+#~ "nuova domanda, un’email a %1$scoloro che hanno acquistato il prodotto"
+#~ "%2$s\n"
+#~ "invitandoli a lasciare una risposta. Scegli tu se inviare l’email a tutti "
+#~ "gli acquirenti o lasciare che il plugin ne selezioni solo alcuni in "
+#~ "maniera casuale."
+
+#~ msgid "Is appropriate"
+#~ msgstr "È appropriato"
+
+#~ msgid "Is inappropriate"
+#~ msgstr "Non è appropriato"
+
+#~ msgctxt "post"
+#~ msgid "Inappropriate"
+#~ msgstr "Inappropriato"
+
+#~ msgid "Inappropriate content <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Inappropriate content <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Contenuto inappropriato <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "Contenuti inappropriati <span class=\"count\">(%s)</span>"
+
+#~ msgid ""
+#~ "An error occurred. The requested resource does not exist or the content "
+#~ "is deprecated."
+#~ msgstr ""
+#~ "Si è verificato un errore. La risorsa richiesta non esiste o il contenuto "
+#~ "è deprecato."
+
+#~ msgid "The email address is not valid."
+#~ msgstr "L'indirizzo email non è valido."
+
+#~ msgid ""
+#~ "Unsubscription completed. You will not receive any more answering "
+#~ "requests for the selected products."
+#~ msgstr ""
+#~ "Cancellazione effettuata con successo. Non riceverai più richieste per "
+#~ "rispondere ai messaggi lasciati sui prodotti selezionati."
+
+#~ msgid ""
+#~ "Please, confirm your email address to stop receiving answering requests "
+#~ "for the questions about products you have bought:"
+#~ msgstr ""
+#~ "Ti preghiamo di confermare il tuo indirizzo email per non ricevere più "
+#~ "richieste di risposta per le domande poste sui prodotti che hai "
+#~ "acquistato:"
+
+#~ msgid "Email address"
+#~ msgstr "Indirizzo email"
+
+#~ msgid "Unsubscribe"
+#~ msgstr "Cancellati"
+
+#~ msgctxt "Page slug"
+#~ msgid "questions_and_answers_unsubscription"
+#~ msgstr "questions_and_answers_unsubscription"
+
+#~ msgctxt "Page title"
+#~ msgid "Questions & Answers unsubscription"
+#~ msgstr "Questions & Answers cancellazione"
+
+#~ msgid "Notification for new question"
+#~ msgstr "Notifica nuova domanda"
+
+#~ msgid "Your question has received an answer"
+#~ msgstr "Qualcuno ha risposto alla tua domanda"
+
+#~ msgid "Notification for new answer"
+#~ msgstr "Notifica nuova risposta"
+
+#~ msgid "Response to: "
+#~ msgstr "Risposta a:"
+
+#~ msgid "Upvotes"
+#~ msgstr "Voti positivi"
+
+#~ msgid "Downvotes"
+#~ msgstr "Voti negativi"
+
+#~ msgid "Abuse reports"
+#~ msgstr "Segnalazioni di abuso"
+
+#~ msgid "Thanks"
+#~ msgstr "Grazie"
+
+#~ msgid "Your content has been sent correctly."
+#~ msgstr "Il contenuto è stato inviato correttamente."
+
+#~ msgid "An error has occurred, your content has not been added correctly."
+#~ msgstr ""
+#~ "Si è verificato un errore, il tuo contenuto non è stato aggiunto "
+#~ "correttamente."
+
+#~ msgid "Please write your text before submitting it."
+#~ msgstr "Inserisci il tuo testo prima di inviare."
+
+#~ msgid "Please confirm you are human solving the reCaptcha."
+#~ msgstr ""
+#~ "Per favore, risolvi il reCaptcha per confermare di non essere un robot."
+
+#~ msgid "%d vote"
+#~ msgid_plural "%d votes"
+#~ msgstr[0] "%d voto"
+#~ msgstr[1] "%d voti"
+
+#~ msgid "%d on %d found it useful. What do you think?"
+#~ msgstr "È stata utile per %d su %d utenti. Tu cosa ne pensi?"
+
+#~ msgid "Do you think this answer is useful?"
+#~ msgstr "Credi che questa risposta sia utile?"
+
+#~ msgid "Upvote this question"
+#~ msgstr "Vota positivamente questa domanda"
+
+#~ msgid "Downvote this question"
+#~ msgstr "Vota negativamente questa domanda"
+
+#~ msgid "An error occurred during the reCaptcha validation."
+#~ msgstr "Si è verificato un errore durante la validazione del reCaptcha."
+
+#~ msgid "Thanks!"
+#~ msgstr "Grazie!"
+
+#~ msgid ""
+#~ "YITH WooCommerce Questions and Answers is enabled but not effective. It "
+#~ "requires WooCommerce in order to work."
+#~ msgstr ""
+#~ "YITH WooCommerce Questions and Answers è abilitato ma non in funzione. "
+#~ "Devi aver installato WooCommerce perché possa funzionare."
+
+#~ msgid "Advanced"
+#~ msgstr "Avanzate"
+
+#~ msgid ""
+#~ "YITH WooCommerce Questions & Answers is available in an outstanding "
+#~ "PREMIUM version with many new options, discover it now."
+#~ msgstr ""
+#~ "Di H WooCommerce Questions & Answers è disponibile un'eccezionale "
+#~ "versione PREMIUM con molte nuove opzioni, scoprila adesso."
+
+#~ msgid ""
+#~ "In YIT Plugins tab you can find YITH WooCommerce Questions and Answers "
+#~ "options.<br> From this menu you can access all settings of YITH plugins "
+#~ "activated."
+#~ msgstr ""
+#~ "Nella scheda YIT Plugins puoi trovare le opzioni di YITH WooCommerce "
+#~ "Questions and Answers. <br>Da questo menu potrai accedere a tutte le "
+#~ "impostazioni dei plugin YITH che hai attivato."
+
+#~ msgid "Shop name"
+#~ msgstr "Nome shop"
+
+#~ msgid "The reference name for email notifications."
+#~ msgstr "Nome di riferimento per le notifiche email."
+
+#~ msgid "Vote question"
+#~ msgstr "Vota la domanda"
+
+#~ msgid "Allow users to vote product questions."
+#~ msgstr "Permetti agli utenti di votare le domande sui prodotti."
+
+#~ msgid "New question notification"
+#~ msgstr "Nuova notifica per domanda"
+
+#~ msgid ""
+#~ "Send a notification email to the administrator when new questions are "
+#~ "available."
+#~ msgstr ""
+#~ "Manda un'email di notifica all'amministratore quando ci sono nuove "
+#~ "risposte."
+
+#~ msgid "Do not send notifications"
+#~ msgstr "Non inviare notifiche"
+
+#~ msgid "Notification in HTML email"
+#~ msgstr "Notifica con email in formato HTML"
+
+#~ msgid "New answer notification"
+#~ msgstr "Notifica per nuova risposta"
+
+#~ msgid ""
+#~ "Send a notification email to the administrator when new answers are "
+#~ "available."
+#~ msgstr ""
+#~ "Invia un'email di notifica all'amministratore quando ci sono nuove "
+#~ "risposte."
+
+#~ msgid "User notification"
+#~ msgstr "Notifica utente"
+
+#~ msgid ""
+#~ "Allow users to receive a notification when their questions receive an "
+#~ "answer."
+#~ msgstr ""
+#~ "Permetti agli utenti di ricevere una notifica quando ricevono una "
+#~ "risposta alla loro domanda."
+
+#~ msgid "Vote answers"
+#~ msgstr "Vota le risposte"
+
+#~ msgid "Allow users to vote answers."
+#~ msgstr "Permetti agli utenti di votare le risposte."
+
+#~ msgid "Let users report an answer as inappropriate content."
+#~ msgstr ""
+#~ "Permetti agli utenti di segnalare una risposta come contenuto "
+#~ "inappropriato."
+
+#~ msgid "Not enabled"
+#~ msgstr "Non abilitato"
+
+#~ msgid "Only registered users can report an inappropriate content"
+#~ msgstr ""
+#~ "Solo gli utenti registrati possono segnalare un contenuto inappropriato"
+
+#~ msgid "Everyone can report an inappropriate content"
+#~ msgstr "Chiunque può segnalare un contenuto inappropriato"
+
+#~ msgid "Hiding threshold"
+#~ msgstr "Nascondi preventivamente"
+
+#~ msgid ""
+#~ "Hide temporarily an answer when a specific number of users has flagged it "
+#~ "as inappropriate. Set this value to 0 to never hide automatically the "
+#~ "reviews."
+#~ msgstr ""
+#~ "Nascondi temporaneamente una risposta quando un determinato numero di "
+#~ "utenti l'ha segnalata come inappropriata. Imposta questo valore a 0 per "
+#~ "non nascondere mai le recensioni."
+
+#~ msgid "Answer excerpt"
+#~ msgstr "Anteprima risposta"
+
+#~ msgid ""
+#~ "Set max length for answers and show a \"Read more\" text for showing all "
+#~ "content."
+#~ msgstr ""
+#~ "Imposta la lunghezza massima per le risposte e mostra \"Leggi altro\" per "
+#~ "mostrare il contenuto."
+
+#~ msgid "Anonymous mode"
+#~ msgstr "Modalità incognito"
+
+#~ msgid ""
+#~ "Do not show the name of the users that have added a question or an answer."
+#~ msgstr ""
+#~ "Non mostrare i nomi di utenti che hanno aggiunto una domanda o una "
+#~ "risposta."
+
+#~ msgid "Ask customers for an answer"
+#~ msgstr "Richiedi una risposta ai clienti"
+
+#~ msgid ""
+#~ "Send an email to whoever purchased a product when a new question is "
+#~ "available."
+#~ msgstr ""
+#~ "Invia un'email a chiunque abbia acquistato un prodotto appena c'è una "
+#~ "nuova domanda."
+
+#~ msgid "Do not send requests"
+#~ msgstr "Non inviare richieste"
+
+#~ msgid "Send an email to all customers"
+#~ msgstr "Invia un'email a tutti i clienti"
+
+#~ msgid "Send an email to a sample of customers"
+#~ msgstr "Invia un'email ad un campione di clienti"
+
+#~ msgid "Sample size"
+#~ msgstr "Taglia"
+
+#~ msgid ""
+#~ "(%) Set the percentage of customers that have bought the product that you "
+#~ "want to contact to ask for an answer."
+#~ msgstr ""
+#~ "(%) Imposta la grandezza del campione di clienti che hanno acquistato il "
+#~ "prodotto e che verranno contattati per scrivere una risposta."
+
+#~ msgid "reCaptcha"
+#~ msgstr "reCaptcha"
+
+#~ msgid "Enable reCaptcha on plugin forms."
+#~ msgstr "Abilita il reCaptcha nei moduli del plugin."
+
+#~ msgid "reCaptcha site key"
+#~ msgstr "Chiave del sito per il reCaptcha"
+
+#~ msgid "Insert your reCaptcha site key."
+#~ msgstr "Inserisci la chiave del sito per il reCaptcha"
+
+#~ msgid "reCaptcha secret key"
+#~ msgstr "Chiave privata del reCaptcha"
+
+#~ msgid "Insert your reCaptcha secret key."
+#~ msgstr "Inserisci la chiave privata per il reCaptcha."
+
+#~ msgid "Question paging"
+#~ msgstr "Paginazione domande"
+
+#~ msgid "Answer paging"
+#~ msgstr "Paginazione risposte"
+
+#~ msgid ""
+#~ "Set how many answers you want to show for each question (set 0 to display "
+#~ "all)."
+#~ msgstr ""
+#~ "Imposta il numero di risposte da mostrare per ogni prodotto (seleziona 0 "
+#~ "per mostrarle tutte)."
+
+#~ msgid ""
+#~ "Don't allow users to add questions and answers, but let them read them in "
+#~ "FAQ mode."
+#~ msgstr ""
+#~ "Non permettere agli utenti di aggiungere domande e risposte, ma lascia "
+#~ "che leggano solamente in modalità FAQ"
+
+#~ msgid "A question for you"
+#~ msgstr "Una domanda per te"
+
+#~ msgid "Question:"
+#~ msgstr "Domanda:"
+
+#~ msgid "Do you want to answer to the question?"
+#~ msgstr "Vuoi rispondere a questa domanda?"
+
+#~ msgid "Go to the question"
+#~ msgstr "Vai alla domanda"
+
+#~ msgid "Don't receive any more requests for this product"
+#~ msgstr "Non voglio ricevere più richieste per questo prodotto"
+
+#~ msgid "Don't receive any more requests for any products"
+#~ msgstr "Non voglio ricevere più richieste per nessun prodotto"
+
+#~ msgid "Answer:"
+#~ msgstr "Risposta:"
+
+#~ msgid "Read more"
+#~ msgstr "Leggi tutto"
+
+#~ msgid "YES"
+#~ msgstr "SÌ"
+
+#~ msgid "NO"
+#~ msgstr "NO"
+
+#~ msgid "Report abuse"
+#~ msgstr "Segnala un abuso"
+
+#~ msgid "Back to questions"
+#~ msgstr "Torna alle domande"
+
+#~ msgid "<<< Back to questions"
+#~ msgstr "<<< Torna alle domande"
+
+#~ msgid "There are no answers for this question, be the first to respond."
+#~ msgstr "Nessuno ha risposto a questa domanda, rispondi tu per primo!"
+
+#~ msgid "Sort by:"
+#~ msgstr "Ordina per:"
+
+#~ msgid "Most useful"
+#~ msgstr "Più utili"
+
+#~ msgid "Most recent"
+#~ msgstr "Più recenti"
+
+#~ msgid "Oldest"
+#~ msgstr "Più vecchie"
+
+#~ msgid "Answer now"
+#~ msgstr "Rispondi adesso"
+
+#~ msgid "No question has still received an answer."
+#~ msgstr "Ancora non è stata data risposta ad alcuna domanda."
+
+#~ msgid "Show all %d questions"
+#~ msgstr "Mostra tutte le %d domande"
+
+#~ msgid "Show all %d questions %s"
+#~ msgstr "Mostra tutte le %d domande %s"
+
+#~ msgid "(%d without an answer)"
+#~ msgstr "(di cui %d senza risposta)"
+
+#~ msgid "Do you have any questions? Ask now!"
+#~ msgstr "Hai domande? Chiedi pure!"
+
+#~ msgid "Send me a notification for each new answer."
+#~ msgstr "Notificami ad ogni risposta che riceve questa domanda."
+
+#~ msgid "Set representative sample"
+#~ msgstr "Grandezza campione rappresentativo"
+
+#~ msgid "This review is closed for replies"
+#~ msgstr "This review is closed to replies"
+
+#~ msgid "This review is closed for comments"
+#~ msgstr "This review is closed to comments"
+
+#~ msgid "Product id is in invalid format"
+#~ msgstr "Product id is an invalid format"
+
+#~ msgid "Voting/Reviews settings"
+#~ msgstr "Voting/Review settings"
+
+#~ msgid ""
+#~ "In the YIT Plugins tab you can find the YITH WooCommerce Advanced Reviews "
+#~ "options. With this menu, you can access to all the settings of our "
+#~ "plugins that you have activated."
+#~ msgstr ""
+#~ "In YIT Plugins tab you can find YITH WooCommerce Advanced Reviews "
+#~ "options. From this menu you can access all settings of YITH plugins "
+#~ "activated."
+
+#~ msgid ""
+#~ "From now on, you can find all the options of YITH WooCommerce Advanced "
+#~ "Reviews under YIT Plugin -> Advanced Reviews instead of WooCommerce -> "
+#~ "Settings -> Advanced Reviews, as in the previous version. When one of our "
+#~ "plugins updates, a new voice will be added to this menu."
+#~ msgstr ""
+#~ "From now on, you can find all YITH WooCommerce Advanced Reviews options "
+#~ "in YIT Plugin -> Advanced Reviews instead of WooCommerce -> Settings -> "
+#~ "Advanced Reviews, as in the previous version. Any time one of our plugins "
+#~ "is updated, a new entry will be added to this menu."
+
+#~ msgid "The layout for this "
+#~ msgstr "Layout for this "
+
+#~ msgid ""
+#~ "The word used for the URL of each project (the slug of post if empty)"
+#~ msgstr ""
+#~ "Univocal identification name in the URL for each product (slug from post "
+#~ "if empty)"
+
+#~ msgid "Label Singular"
+#~ msgstr "Label in Singular"
+
+#~ msgid ""
+#~ "Set the label in singular to use for each label (the title of portfolio "
+#~ "if empty)"
+#~ msgstr "Set a label in singular (title of portfolio if empty)"
+
+#~ msgid "Label Plural"
+#~ msgstr "Label in Plural"
+
+#~ msgid ""
+#~ "Set the label in plural to use for each label (the title of portfolio if "
+#~ "empty)"
+#~ msgstr "Set a label in plural (title of portfolio if empty)"
+
+#~ msgid ""
+#~ "If you want to use a category section for the portfolio, set the name of "
+#~ "taxonomy. Name should be in slug form (must not contain capital letters "
+#~ "or spaces) and not more than 32 characters long (database structure "
+#~ "restriction)."
+#~ msgstr ""
+#~ "If you want to use categories in the portfolio, set a name for taxonomy. "
+#~ "Name should be a slug (must not contain capital letters nor spaces) and "
+#~ "must not be more than 32 characters long (database structure restriction)."
+
+#~ msgid "Set the word to use in the URL for each category page."
+#~ msgstr "Set the word for each category page URL."
+
+#~ msgid "The layout for single page of this portfolio"
+#~ msgstr "Layout for single page of this portfolio"
+
+#~ msgid "Show the frontend of the %s"
+#~ msgstr "Show frontend of the %s"
+
+#~ msgid ""
+#~ "The changes you made will be lost if you navigate away from this page."
+#~ msgstr "The changes you made will be lost if you leave this page."
+
+#~ msgid ""
+#~ "If you continue with this action, you will reset all options are in this "
+#~ "page."
+#~ msgstr ""
+#~ "If you go on with this action, you will reset all options in this page."
+
+#~ msgid ""
+#~ "The element you have written is already exists. Please, add another name."
+#~ msgstr "This element already exists. Please, enter a different name."
+
+#~ msgid "An error encoured during during import. Please try again."
+#~ msgstr "An error has occurred during import. Please try again."
+
+#~ msgid "The file you have insert doesn't valid."
+#~ msgstr "The file inserted is not valid."
+
+#~ msgid "I'm sorry, the import featured is disabled."
+#~ msgstr "Sorry, import is disabled."
+
+#~ msgid "Sorting done correctly."
+#~ msgstr "Sorting successful."
+
+#~ msgid ""
+#~ "From now on, you can find all the options of your plugins under the YIT "
+#~ "Plugin menu voice.\n"
+#~ "                                     For every installation of our new "
+#~ "plugins, a new voice will be added to access to the customization "
+#~ "settings."
+#~ msgstr ""
+#~ "From now on, you can find all plugin options in YIT Plugin menu.\n"
+#~ "                                     For each plugin installed, "
+#~ "customization settings will be available as a new entry in YIT Plugin "
+#~ "menu."
+
+#~ msgid ""
+#~ "From now on, you can find all the options of your plugins under the YIT "
+#~ "Plugin menu voice.\n"
+#~ "                                    When one of our plugins updates, a "
+#~ "new voice will be added to this menu.\n"
+#~ "                                    For example, after the update, the "
+#~ "options from the plugins (YITH WooCommerce Wishlist, YITH WooCommerce "
+#~ "Ajax Search, etc.)\n"
+#~ "                                    will be removed from the previous "
+#~ "location and moved under the YIT Plugin tab."
+#~ msgstr ""
+#~ "From now on, you can find all the options of your plugins in YIT Plugin "
+#~ "menu.\n"
+#~ "                                    Any time one of our plugins is "
+#~ "updated, a new entry will be added to this menu.\n"
+#~ "                                    For example, after update, plugin "
+#~ "options (such for YITH WooCommerce Wishlist, YITH WooCommerce Ajax "
+#~ "Search, etc.)\n"
+#~ "                                    will be moved from previous location "
+#~ "to YIT Plugin tab."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a href=\"%2$s\" class="
+#~ "\"thickbox yit-changelog-button\" title=\"%3$s\">View version %4$s "
+#~ "details</a>. <em>You have to activate the plugin on a single site of the "
+#~ "network to benefit from the automatic updates.</em>"
+#~ msgstr ""
+#~ "There is a new version of %1$s available. <a href=\"%2$s\" class="
+#~ "\"thickbox yit-changelog-button\" title=\"%3$s\">View version %4$s "
+#~ "details</a>. <em>You have to activate the plugin on a single site of the "
+#~ "network to benefit from automatic updates.</em>"
+
+#~ msgid "%field% field can not be empty"
+#~ msgstr "%field% field cannot be empty"
+
+#~ msgid "%field_1% and %field_2% fields can not be empty"
+#~ msgstr "%field_1% and %field_2% fields cannot be empty"
+
+#~ msgid "Software has been deactive"
+#~ msgstr "Software has been deactivated"
+
+#~ msgid "Licence key has be banned"
+#~ msgstr "Licence key has been banned"
+
+#~ msgid "To Active"
+#~ msgstr "Activation"
+
+#~ msgid "Insert the title of field."
+#~ msgstr "Insert title for the field."
+
+#~ msgid ""
+#~ "REQUIRED: The identification name of this field, that you can insert into "
+#~ "body email configuration. <strong>Note:</strong>Use only lowercase "
+#~ "characters and underscores."
+#~ msgstr ""
+#~ "REQUIRED: Field identification name to be entered into email body. "
+#~ "<strong>Note:</strong>Use only lowercase characters and underscores."
+
+#~ msgid "Select the type of this field."
+#~ msgstr "Select type for this field."
+
+#~ msgid "Select this if it's the email where you can reply."
+#~ msgstr "Select this if it is the email you can reply to."
+
+#~ msgid ""
+#~ "Insert an additional class(es) (separateb by comma) for more "
+#~ "personalization."
+#~ msgstr ""
+#~ "Insert additional class(es) (separated by commas) for more "
+#~ "personalization."
+
+#~ msgid "Choose how much long will be the field."
+#~ msgstr "Set field length."
+
+#~ msgid "The content of the tab. (HTML is supported)"
+#~ msgstr "Content of the tab. (HTML is supported)"
+
+#~ msgid "Sidebar Left"
+#~ msgstr "Left sidebar"
+
+#~ msgid "Sidebar Right"
+#~ msgstr "Right sidebar"
+
+#~ msgid "Add a title field on reviews."
+#~ msgstr "Add a title field to reviews."
+
+#~ msgid "Set maximum number of attachments selectable (0 = no limit)."
+#~ msgstr ""
+#~ "Set maximum number of attachments that can be selected (0 = no limit)."
+
+#~ msgid "Reviews summary options"
+#~ msgstr "Review summary options"
+
+#~ msgid "Fixed bars color"
+#~ msgstr "Fixed bar color"
+
+#~ msgid "Percentage bars color"
+#~ msgstr "Percentage bar color"
+
+#~ msgid "Show people's votes"
+#~ msgstr "Show review votes"
+
+#~ msgid "Add a string stating how many people's found the review useful."
+#~ msgstr "Add a string stating how many people found the review useful."
+
+#~ msgid "Customers reviews"
+#~ msgstr "Customers' reviews"

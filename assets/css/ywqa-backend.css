@@ -1,0 +1,28 @@
+.post-type-question_answer th#image_type {
+    width: 20px;
+}
+
+#edit-slug-box {
+    display: none;
+}
+
+#respond-to-question {
+    width: 100%;
+}
+
+span.error {
+    color: red;
+}
+
+span.success {
+    color: darkgreen;
+}
+
+#submit-answer {
+    display: block;
+}
+
+span.response-to,
+span.for-product {
+    font-weight: 600;
+}

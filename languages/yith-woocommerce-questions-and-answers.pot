@@ -1,0 +1,514 @@
+# Copyright (C) 2021 YITH
+# This file is distributed under the same license as the YITH WooCommerce Questions and Answers package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Questions and Answers 1.5.0\n"
+"Report-Msgid-Bugs-To: YITH <plugins@yithemes.com>\n"
+"POT-Creation-Date: 2021-10-07 14:32:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: YITH <info@yithemes.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: class.yith-woocommerce-question-answer.php:145
+#: class.yith-woocommerce-question-answer.php:146
+msgid "Content updated."
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:147
+msgid "Content published."
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:148
+msgid "Content saved."
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:149
+msgid "Content submitted."
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:293
+#: class.yith-woocommerce-question-answer.php:311
+msgid "Product: "
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:316
+msgid "Question: "
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:340
+msgid "Select product"
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:488
+#: class.yith-woocommerce-question-answer.php:504
+#: class.yith-woocommerce-question-answer.php:732
+msgid "Questions & Answers"
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:489
+msgid "Parent discussion"
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:490
+msgid "All discussion"
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:491
+msgid "View discussions"
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:492
+msgid "Add new question"
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:493
+msgid "Add new"
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:494
+msgid "Edit discussion"
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:495
+msgid "Update discussion"
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:496
+msgid "Search discussion"
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:497
+msgid "Not found"
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:498
+msgid "Not found in the bin"
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:505
+msgid "YITH Questions and Answers"
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:555
+#: class.yith-woocommerce-question-answer.php:621
+msgid "Please retry submitting your question or answer."
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:561
+msgid "No product ID selected, the question will not be created."
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:711
+msgid "You need to write something!"
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:712
+msgid "Answer correctly sent."
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:713
+msgid "An error occurred, your answer has not been added."
+msgstr ""
+
+#: init.php:32
+msgid ""
+"YITH WooCommerce Questions & Answers is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+
+#: init.php:45
+msgid ""
+"You can't activate the free version of YITH WooCommerce Questions & Answers "
+"while you are using the premium one."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-privacy.php:253
+#. translators: %d: Comment ID
+msgid "Review %d contains personal data but could not be anonymized."
+msgstr ""
+
+#: lib/class.ywqa-discussion.php:119
+msgid "Anonymous"
+msgstr ""
+
+#: lib/class.ywqa-plugin-fw-loader.php:145
+msgid "General"
+msgstr ""
+
+#: lib/class.ywqa-plugin-fw-loader.php:148
+msgid "Premium Version"
+msgstr ""
+
+#: lib/class.ywqa-plugin-fw-loader.php:203
+msgid ""
+"YITH WooCommerce Questions and Answers is available in an outstanding "
+"PREMIUM version with many new options, discover it now."
+msgstr ""
+
+#: lib/class.ywqa-plugin-fw-loader.php:204
+msgid "Premium version"
+msgstr ""
+
+#: lib/class.ywqa-plugin-fw-loader.php:213
+msgid ""
+"In YIT Plugins tab you can find YITH WooCommerce Questions & Answers "
+"options.<br> From this menu you can access all settings of YITH plugins "
+"activated."
+msgstr ""
+
+#: plugin-options/general-options.php:22
+msgid "General settings"
+msgstr ""
+
+#: plugin-options/general-options.php:27
+msgid "Questions to show"
+msgstr ""
+
+#: plugin-options/general-options.php:29
+msgid ""
+"Set how many questions you want to show for each product (set 0 to display "
+"all)."
+msgstr ""
+
+#: plugin-options/general-options.php:39 templates/admin/premium.php:474
+msgid "FAQ mode"
+msgstr ""
+
+#: plugin-options/general-options.php:41
+msgid ""
+"Don't allow users to add questions and answers, but let them read in FAQ "
+"mode."
+msgstr ""
+
+#: templates/admin/premium.php:220 templates/admin/premium.php:497
+#. translators: %1: html %2: html
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Questions and "
+"Answers%2$s to benefit from all features!"
+msgstr ""
+
+#: templates/admin/premium.php:227 templates/admin/premium.php:504
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/admin/premium.php:228 templates/admin/premium.php:505
+msgid "to the premium version"
+msgstr ""
+
+#: templates/admin/premium.php:234
+msgid "Premium Features"
+msgstr ""
+
+#: templates/admin/premium.php:242
+msgid "Number of answers "
+msgstr ""
+
+#: templates/admin/premium.php:248
+#. translators: %1: html %2: html
+msgid ""
+"The more followers has a question, the more answers are likely to be left "
+"for it. If you do not want your product page to get extremely long, enable "
+"%1$sanswer pagination%2$s by specifying the number of elements you want to "
+"show at a time."
+msgstr ""
+
+#: templates/admin/premium.php:262
+msgid "Voting system"
+msgstr ""
+
+#: templates/admin/premium.php:268
+#. translators: %1: html %2: html
+msgid ""
+"Increase and improve interaction between users and your shop. With the "
+"premium version of the plugin, you will be able to allow all registered "
+"users to leave a %1$spositive or negative vote%2$s to questions and answers "
+"of each product. A very good strategy to highlight questions and answers "
+"that can be useful to other customers."
+msgstr ""
+
+#: templates/admin/premium.php:288
+msgid "Email notification"
+msgstr ""
+
+#: templates/admin/premium.php:294
+#. translators: %1: html %2: html
+msgid ""
+"Keep always up-to-date about what users write in your shop. Enable "
+"%1$semail notification%2$s to be informed any time a new question is added "
+"to one of your products and read the content of it in the email message you "
+"get. With the option %1$s\"User notification\"%2$s, you can notify users as "
+"soon as an answer is given to the question they have previously posed."
+msgstr ""
+
+#: templates/admin/premium.php:309
+msgid "Inappropriate content"
+msgstr ""
+
+#: templates/admin/premium.php:315
+#. translators: %1: html %2: html
+msgid ""
+"There might always be someone in the web, who wants to disturb or leave "
+"offensive, inappropriate or simply unsuitable answers. With the premium "
+"version of the plugin, your users will be able to \"monitor\" this kind of "
+"answers on their own and report questions and/or answers that are "
+"inappropriate. %1$sThese answers will be automatically removed%2$s if a "
+"specific number of users that you can set in your plugin reports them as an "
+"abuse."
+msgstr ""
+
+#: templates/admin/premium.php:335
+msgid "Incognito mode"
+msgstr ""
+
+#: templates/admin/premium.php:341
+#. translators: %1: html %2: html
+msgid ""
+"Working principles are always the same. Each question will get its own "
+"answers. The only difference is that the name of users who have posed a "
+"question or given an answer will not be shown and they will be "
+"%1$sanonymous%2$s to users of the shop, either they are registered or not."
+msgstr ""
+
+#: templates/admin/premium.php:355
+msgid "Invite to answer"
+msgstr ""
+
+#: templates/admin/premium.php:361
+#. translators: %1: html %2: html
+msgid ""
+"Who may better answer to a new question than those who have purchased a "
+"product?  With this innovative feature, you will be able to automatically "
+"%1$ssend an email to customers that have purchased a product%2$s on which a "
+"question has been added and invite them to answer. You can choose to send "
+"an email to all customers or let the plugin select only some of them "
+"randomly. "
+msgstr ""
+
+#: templates/admin/premium.php:381
+msgid "reCAPTCHA"
+msgstr ""
+
+#: templates/admin/premium.php:387
+#. translators: %1: html %2: html
+msgid ""
+"Make your questions and answers system safer: activate the recaptcha and "
+"avoid all the spam contents you can get.The premium version of the plugin "
+"offers the new version of Google's captcha, the %1$sNo CAPTCHA "
+"reCAPTCHA%2$s, to give you the freedom to use an up-to-date and simple "
+"system for your users."
+msgstr ""
+
+#: templates/admin/premium.php:401
+msgid "Insertion mode."
+msgstr ""
+
+#: templates/admin/premium.php:407
+#. translators: %1: html %2: html
+msgid ""
+"By default, the complete list of questions and answers is shown right "
+"inside a %1$stab of product detail page%2$s.%3$s However, you can change "
+"this behavior by inserting, through the specific %1$sshortcode%2$s, "
+"questions and answers in any spot of the page."
+msgstr ""
+
+#: templates/admin/premium.php:428
+msgid "Content moderation"
+msgstr ""
+
+#: templates/admin/premium.php:434
+#. translators: %1: html %2: html
+msgid ""
+"That be a question or an answer, the content could be %1$spublished only "
+"after your approval%2$s. In this way you could avoid spam on your product "
+"pages and be sure to have only efficient contents for your customers."
+msgstr ""
+
+#: templates/admin/premium.php:448
+msgid "Unlogged users"
+msgstr ""
+
+#: templates/admin/premium.php:454
+#. translators: %1: html %2: html
+msgid ""
+"Give the possibility to unlogged users to insert a question or an answer. "
+"The insertion form allows user to insert %1$sname%2$s and %1$semail "
+"address%2$s which can be used later by administrator to stretch back to the "
+"owner of the question and/or answer."
+msgstr ""
+
+#: templates/admin/premium.php:480
+#. translators: %1: html %2: html
+msgid ""
+"A complete list of questions and answers is made available to users, "
+"without any possibility of insertion for them. %1$sOnly the administrator "
+"of the shop%2$s will be enabled to insert and /or change the contents."
+msgstr ""
+
+#: templates/ywqa-answer-template.php:30
+#. translators: %1: Author name %2: date
+msgid "%1$s answered on %2$s"
+msgstr ""
+
+#: templates/ywqa-answers-template.php:36
+msgid "Back to product"
+msgstr ""
+
+#: templates/ywqa-answers-template.php:44
+#. translators: %1: Author name %2:date
+msgid "asked by %1$s on %2$s"
+msgstr ""
+
+#: templates/ywqa-answers-template.php:64
+msgid "Type your answer here"
+msgstr ""
+
+#: templates/ywqa-answers-template.php:68
+msgid "Answer"
+msgstr ""
+
+#: templates/ywqa-answers-template.php:69
+msgid "Answer now to the question"
+msgstr ""
+
+#: templates/ywqa-answers-template.php:83
+#. translators: %s: Question count
+msgid "%s answers shown"
+msgstr ""
+
+#: templates/ywqa-answers-template.php:93
+msgid "There are no answers to this question, be the first to respond."
+msgstr ""
+
+#: templates/ywqa-question-template.php:24
+msgid "Q"
+msgstr ""
+
+#: templates/ywqa-question-template.php:34
+msgid "Answered by the admin"
+msgstr ""
+
+#: templates/ywqa-question-template.php:36
+msgid "A"
+msgstr ""
+
+#: templates/ywqa-question-template.php:44
+msgid "There are no answers for this question yet."
+msgstr ""
+
+#: templates/ywqa-question-template.php:54
+#. translators: %s: count
+msgid "Show all %s answers"
+msgstr ""
+
+#: templates/ywqa-questions-template.php:24
+msgid "Questions and answers of the customers"
+msgstr ""
+
+#: templates/ywqa-questions-template.php:44
+#: templates/ywqa-questions-template.php:52
+#. translators: %d: Count
+#. translators: %s: Name of a city
+msgid "Show all %d questions with answers"
+msgstr ""
+
+#: templates/ywqa-questions-template.php:62
+msgid "There are no questions yet, be the first to ask something for this product."
+msgstr ""
+
+#: templates/ywqa-questions-template.php:79
+msgid "Do you have any question? Ask now!"
+msgstr ""
+
+#: templates/ywqa-questions-template.php:82
+msgid "Ask"
+msgstr ""
+
+#: templates/ywqa-questions-template.php:83
+msgid "Ask your question"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH WooCommerce Questions And Answers</strong></code> offers "
+"a rapid way to manage dynamic discussions about the products of your shop. "
+"<a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for "
+"your e-commerce shop on <strong>YITH</strong></a>."
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:486
+msgctxt "Post Type General Name"
+msgid "Questions & Answers"
+msgstr ""
+
+#: class.yith-woocommerce-question-answer.php:487
+msgctxt "Post Type Singular Name"
+msgid "Question"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-privacy.php:35
+msgctxt "Privacy Policy Content"
+msgid "YITH Question and Answers for WooCommerce"
+msgstr ""
+
+#: views/privacy/html-policy-content-collect_and_store.php:9
+msgctxt "Privacy Policy Content"
+msgid ""
+"While you visit our site, we collect information about you during the "
+"process of creating question and answers of products. We’ll track:"
+msgstr ""
+
+#: views/privacy/html-policy-content-collect_and_store.php:12
+msgctxt "Privacy Policy Content"
+msgid ""
+"Author name, date, title , content and questions and answer url:  we’ll use "
+"this to create questions and answers of products"
+msgstr ""
+
+#: views/privacy/html-policy-content-has_access.php:10
+msgctxt "Privacy Policy Content"
+msgid ""
+"Members of our team have access to the information you provide us. For "
+"example, both Administrators and Shop Managers can access:"
+msgstr ""
+
+#: views/privacy/html-policy-content-has_access.php:13
+msgctxt "Privacy Policy Content"
+msgid ""
+"Author name, date, title and content of the questions and answers you have "
+"made"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-privacy.php:84
+msgctxt "GDPR privacy"
+msgid "Yith Question and Answer"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-privacy.php:165
+msgctxt "GDPR privacy"
+msgid "Question and answer"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-privacy.php:191
+msgctxt "GDPR privacy"
+msgid "Yith Advanced Reviews"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-privacy.php:230
+msgctxt "GDPR privacy"
+msgid "Anonymous"
+msgstr ""
